@@ -1,0 +1,13 @@
+.big_button {
+	background-image: linear-gradient(90deg, #42f54b, #42e6f5);
+	border-radius: 12px;
+	border: none;
+}
+
+ul {
+	display: inline-block;
+}
+
+ul li {
+	white-space: nowrap;
+}
